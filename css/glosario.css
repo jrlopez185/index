@@ -1,0 +1,32 @@
+
+
+
+
+header{
+    text-align: center;
+    color:black;
+    font-size: 25px;
+    margin: 30px auto;
+}
+p{
+    text-align: center;
+    font-size:1.2em;
+}
+table{
+    text-align: center;
+    border: 1px solid gray;
+    margin: 10px 0px 0px 0px;
+    color: black; 
+    
+}
+
+.xd{
+     color:aliceblue;
+    background-color: blueviolet;
+    text-align: center;
+    border: 20px solid black;
+    padding: 0px 0px 0px 50px;
+}
+.tata{
+    padding: 0px 0px 0px 0px;
+}
